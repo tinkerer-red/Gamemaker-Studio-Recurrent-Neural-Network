@@ -62,8 +62,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>image_xscale = 0.25
-image_yscale = 0.25
+            <string>//image_xscale = 0.25
+//image_yscale = 0.25
 
 </string>
           </argument>
@@ -89,7 +89,7 @@ image_yscale = 0.25
             <kind>1</kind>
             <string>///Delay compute fitness
 event_user(0);
-alarm[0] = 5;
+alarm[0] = 1;
 </string>
           </argument>
         </arguments>
